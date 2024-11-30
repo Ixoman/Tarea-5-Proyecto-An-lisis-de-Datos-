@@ -33,7 +33,7 @@ Instalar Anaconda y Jupyter Notebook.
 
 Clonar este repositorio:
 
-git clone [ https://github.com/TuUsuario/TuRepositorio.git](https://github.com/Ixoman/Tarea-5-Proyecto-An-lisis-de-Datos-)
+git clone (https://github.com/Ixoman/Tarea-5-Proyecto-An-lisis-de-Datos-)
 Asegúrate de instalar las librerías necesarias:
 
 pip install -r requirements.txt
